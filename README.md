@@ -52,6 +52,8 @@ Desarrollo de Sistemas de Inteligencia Artificial es una asignatura orientada a 
   * **Entrega 2:** Análisis exploratorio de datos y preparación de la información.
   * **Entrega 3:** Implementación del modelo o solución propuesta.
   * **Entrega Final:** Presentación del proyecto, visualización de resultados y storytelling.
+├── 📁 005-Workshop-IAGenerativa/
+│   └── 📄 README.md (Yo, Robot 2004 - Calificación 10/10)
 * 🔗 **Enlace:** [TPI-EDA/](./TPI-EDA/)
 
 ---
@@ -72,6 +74,8 @@ CDIA.DSdIA/
 ├── 📁 004-GitGithub/
 │   ├── 📓 TP04_GitGitHub.ipynb
 │   └── 📄 README.md
+├── 📁 005-Workshop-IAGenerativa/
+│   └── 📄 README.md (Yo, Robot 2004 - Calificación 10/10)
 ├── 📁 TPI-EDA/
 │   ├── 📓 TPI_1entrega.ipynb
 │   ├── 📓 TPI_2entrega.ipynb
