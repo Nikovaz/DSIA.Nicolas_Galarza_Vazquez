@@ -3,6 +3,7 @@
 [![IFTS 24](https://img.shields.io/badge/IFTS%20Nº24-Ciencia%20de%20Datos%20e%20IA-1f4287?style=for-the-badge)](https://ifts24.edu.ar)
 [![Docente](https://img.shields.io/badge/Docente-Valeria%20Feito-008080?style=for-the-badge)]()
 [![Estudiante](https://img.shields.io/badge/Estudiante-Nicolás%20Galarza%20Vázquez-blue?style=for-the-badge)](https://github.com/Nikovaz)
+[![Simulador Parcial](https://img.shields.io/badge/Simulador%20Parcial-Online-00d2ff?style=for-the-badge&logo=googlechrome)](https://nikovaz.github.io/dsia-simulador-parcial/)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 **Estudiante:** Galarza Vázquez, Nicolás  
